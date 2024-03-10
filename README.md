@@ -1,4 +1,4 @@
-### Hi there 👋
+# About me 👋
 
 <!--
 **Praisefield/Praisefield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm a student
+- I'm currently undergoing a web development internship.
+- I'm currently learning a web development course alongside my school work
+- I'm looking for a mentor in the mechatronics field.
+- How to reach me: praisefieldd@gmail.com 
